@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Rubik", sans-serif;
+    color: #e4e4e4;
+}
+
+.image {
+    height: 100vh;
+    width: 100%;
+    background-color: #F3C5FF;
+    background-image: linear-gradient(#F3C5FF, #845EC2);
+}
